@@ -5,7 +5,6 @@
 <p align = "center">
 
   <a href = "https://www.linkedin.com/in/priyanka-srinivas-/" target = "_blank"><img src = "https://img.shields.io/badge/-ps4449-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyanka-srinivas-/" /></a>
-<img src = "https://komarev.com/ghpvc/?username=ps4449&color=040336 " />
 </p>
 <h1>About Me ✨</h1>
 
