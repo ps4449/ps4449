@@ -18,6 +18,6 @@
 <!-- <p align = "center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ps4449&theme=nightowl&count_private=true&include_all_commits=true&border_radius=20&show_icons=true&custom_title=%20Priyanka%27s%20GitHub%20Stats%20" width="460" />
 </p> -->
-<p align = "center">
+<!-- <p align = "center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps4449&theme=nightowl&layout=compact&langs_count=16&border_radius=20&count_private=true&include_all_commits=true&custom_title=%20Most%20Used%20Languages" />
-</p>
+</p> -->
